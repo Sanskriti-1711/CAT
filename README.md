@@ -1,4 +1,4 @@
-##Neural Netwok for CAT
+## Neural Network for CAT
 Objective: The primary goal of the project seems to be developing a model that predicts the weights of questions in a CAT. This could be crucial for adaptive testing systems, where the difficulty of subsequent questions is adjusted based on the test-taker's performance.
 
 Technology Stack:
